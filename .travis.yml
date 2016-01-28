@@ -8,3 +8,4 @@ matrix:
   allow_failures:
     - rvm: rbx-3.9
 before_install: gem install bundler -v 1.11.2
+
