@@ -10,7 +10,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["magnesium.oxide.play@gmail.com"]
 
   spec.summary       = 'Minisat binding for PropLogic'
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "https://github.com/jkr2255/prop_logic-minisat"
   spec.license       = "MIT"
 
